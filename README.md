@@ -15,7 +15,7 @@ The content of the site includes the following:
 
 4- 2 cards of your choice including (STARTER & COMPLETE) to buy on section: "Pricing"
 
-5- and a registration form on section: "Try for free"
+5- And a registration form on section: "Try for free"
 
 
--Hope you enjoy
+Hope you enjoy
